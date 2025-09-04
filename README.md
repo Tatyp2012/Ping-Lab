@@ -14,4 +14,4 @@ See how long it takes (in milliseconds) for a packet to go to the destination an
 Verify that the network is not dropping packets.
 
 # Screenshots 
-Screenshots can be on the PingLab document 
+Screenshots can be found on the PingLab document 
